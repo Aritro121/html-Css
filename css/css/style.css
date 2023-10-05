@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto&family=Satisfy&display=swap');
+
+body {
+    padding: 10%;
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:visited {
+    color: green;
+}
